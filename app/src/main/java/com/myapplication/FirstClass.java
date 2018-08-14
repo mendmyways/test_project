@@ -9,6 +9,7 @@ public class FirstClass extends View{
 
     public FirstClass(Context context) {
         super(context);
+        // this current branch is master
     }
 
     public FirstClass(Context context, @Nullable AttributeSet attrs) {
